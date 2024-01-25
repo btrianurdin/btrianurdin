@@ -4,6 +4,10 @@ I'm Bagus Trianurdin, a Front-end Developer skilled in Typescript, Javascript, a
 
 Thank you for visiting my profile. Hope for a positive connection and the opportunity to collaborate with you.
 
+Best regards,
+
+![signature](https://raw.githubusercontent.com/btrianurdin/btrianurdin/main/signature%20(2).png)
+
 ## My Statistics
 
 | Stats | Top Lang |
