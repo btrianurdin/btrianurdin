@@ -1,6 +1,6 @@
 ### Hello, friends 👋
 
-I'm Bagus Trianurdin, a Front-end Developer skilled in Typescript, Javascript, and frameworks like React and Vue. Specializing in crafting engaging web experiences, I emphasize clean code with my Prettier config. Excited to build something great together!. I also have a bit of experience with Flutter, btw ✌️.
+I'm Bagus Trianurdin, a Front-end Developer skilled in Typescript, Javascript, and frameworks like React and Vue. Specializing in crafting engaging web experiences, I emphasize clean code with my Prettier config. Excited to build something great together. I also have a bit of experience with Flutter, btw ✌️.
 
 Thank you for visiting my profile. Hope for a positive connection and the opportunity to collaborate with you.
 
