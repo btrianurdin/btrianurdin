@@ -8,6 +8,14 @@ Best regards,
 
 ![signature](https://raw.githubusercontent.com/btrianurdin/btrianurdin/main/signature%20(2).png)
 
+## Skill
+- Typescript & Javascript [React, Next.js, Vue, Nuxt]
+- Dart [Flutter]
+- Go [Gin, Echo]
+- PHP [Laravel, Codeigniter]
+- Node.js [Nest.js, Express]
+- SQL [MySQL, PostgreSQL, MongoDB]
+
 ## My Statistics
 
 | Stats | Top Lang |
